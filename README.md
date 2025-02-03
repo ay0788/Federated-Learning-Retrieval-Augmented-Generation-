@@ -14,9 +14,3 @@ Want to train AI models securely across devices without sharing sensitive data? 
 - 🛠️ **Fine-Tuning Retrieval Models**: Maximize AI performance with RAG optimization.  
 - 🔒 **Ensuring Secure Communication**: Implement privacy mechanisms for FL.  
 
-## 🛠️ Getting Started  
-Clone this repository and start experimenting!  
-
-```bash
-git clone https://github.com/your-repo/fl-rag.git
-cd fl-rag
