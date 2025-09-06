@@ -1,0 +1,11 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+torch
+transformers
+flwr          # Federated Learning framework
+faiss-cpu     # For retrieval
+jupyter       # For notebooks
+
+# Add more as needed
